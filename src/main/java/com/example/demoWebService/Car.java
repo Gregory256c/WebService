@@ -70,5 +70,5 @@ public class Car {
     public String toString() {
         return "Car [plateNumber=" + plateNumber + ", brand=" + brand + ", price=" + price + "]";
     }
-
+//test
 }
